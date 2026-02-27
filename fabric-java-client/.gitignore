@@ -1,0 +1,9 @@
+# Gradle
+.gradle/
+build/
+
+# Fabric crypto material
+crypto/org1/key.pem
+
+# OS
+.DS_Store
